@@ -1,2 +1,23 @@
-# Pengatur-Jam-Tidur
-Ini merupakan Mini Proyek Pemrograman Dasar yang dibuat oleh Nailah Rasya Taufiq
+# Mini Proyek - Coding untuk Kakak Tingkat
+
+## Identitas Mahasiswa
+- Nama  :
+- NIM   :
+- Program Studi  :
+
+## Identitas Kakak Tingkat
+- Nama  :
+- Angkatan  :
+- Program Studi  :
+
+## Permintaan Program
+>"_"
+
+## Penjelasan Program
+- Bahasa pemrograman yang digunakan: C
+- Fitur utama:
+
+- Konsep yang digunakan:
+-
+
+## Link Video Demo
