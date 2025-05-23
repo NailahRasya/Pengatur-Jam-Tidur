@@ -1,14 +1,14 @@
 # Mini Proyek - Coding untuk Kakak Tingkat
 
 ## Identitas Mahasiswa
-- Nama  :
-- NIM   :
-- Program Studi  :
+- Nama  : Nailah Rasya Taufiq
+- NIM   : 2408088
+- Program Studi  : Pendidikan Sistem dan Teknologi Informasi
 
 ## Identitas Kakak Tingkat
-- Nama  :
-- Angkatan  :
-- Program Studi  :
+- Nama  : Rahma Zaimatul Azhar
+- Angkatan  : 2023
+- Program Studi  : Pendidikan Sistem dan Teknologi Informasi
 
 ## Permintaan Program
 >"_"
