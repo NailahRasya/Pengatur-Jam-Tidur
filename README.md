@@ -24,13 +24,13 @@
 
 
 - Konsep yang digunakan:
-Array 
-Looping
-Input/Output
-Validasi input
-Fungsi
-Tipe data
-Percabangan
-Modularitas
+1. Array 
+2. Looping
+3 Input/Output
+4. Validasi input
+5. Fungsi
+6. Tipe data
+7. Percabangan
+8. Modularitas
 
 ## Link Video Demo
