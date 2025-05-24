@@ -11,13 +11,26 @@
 - Program Studi  : Pendidikan Sistem dan Teknologi Informasi
 
 ## Permintaan Program
->"_"
+>"paling aku mau kamu bikinin track jam tidur, karna kayanya banyak mahasiswa yg jam tidur nya berantakan"
 
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
 - Fitur utama:
+1. Input jam tidur harian
+2. Perhitungan total jam tidur
+3. Perhitungan rata-rata jam tidur
+4. Evaluasi kualitas tidur
+5. Output
+
 
 - Konsep yang digunakan:
--
+Array 
+Looping
+Input/Output
+Validasi input
+Fungsi
+Tipe data
+Percabangan
+Modularitas
 
 ## Link Video Demo
